@@ -30,4 +30,4 @@ if __name__ == '__main__':
     SITEKEY =""
     URL =""
 
-    getcaptcha(APIKEY,SITEKEY,URL)
+    result = getcaptcha(APIKEY,SITEKEY,URL)
